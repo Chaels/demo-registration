@@ -1,0 +1,17 @@
+{
+  "name": "ToolsQAWebdriverIO",
+  "version": "4.2.11",
+  "dependencies": {
+    "moment": "latest",
+    "cucumber": "latest"
+  },
+  "devDependencies": {
+    "webdriverio": "^4.2.11",
+    "chai": "*",
+    "cucumber-html-reporter": "latest"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,20 @@
+{
+  "userInfo": {
+    "firstName": "Mike",
+    "lastName": "Byson",
+    "maritalStatus": "Single",
+    "hobby": "Reading",
+    "country": "United States",
+    "birthMonth": "7",
+    "birthDate": "23",
+    "birthYear": "1993",
+    "phoneNumber": "3145551212",
+    "userName": "MikeByson_",
+    "invalidEmailPrefix": "testEmail()",
+    "emailPrefix": "toolsqatestuser+",
+    "domain": "@gmail.com",
+    "about": "This is information about myself",
+    "password": "testPassword!23",
+    "passwordConfirm": "testPassword!23"
+  }
+}
